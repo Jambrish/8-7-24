@@ -1,0 +1,19 @@
+table th , td
+{
+    height: 45px;
+    width: 10000px;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+
+body
+{ 
+    font-family:Arial, Helvetica, sans-serif
+}
+tr 
+{
+    font-size: 16px;
+}
+
+
